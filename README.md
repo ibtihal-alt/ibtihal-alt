@@ -13,7 +13,7 @@
   <a href="https://www.instagram.com/ibtihal.aan/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
   <a href="mailto:ibtihal.althea@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://paypal.me/IbtihalNegara"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
-  <img src="https://visitcount.itsvg.in/api?id=ibtihal-alt&icon=0&color=13" />
+  <img src="https://komarev.com/ghpvc/?username=ibtihal-alt&color=fe428e&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
 ---
@@ -50,29 +50,23 @@ const ibtihal = {
 
 ## 📊 GitHub Stats
 
+<!-- metrics.svg dibuat otomatis oleh .github/workflows/metrics.yml -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ibtihal-alt&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibtihal-alt&theme=radical&hide_border=true&layout=compact" />
+  <img src="metrics.svg" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ibtihal-alt&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=ibtihal-alt&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ibtihal-alt&theme=redical&hide_border=true&area=true" />
+  <img width="100%" src="https://ghchart.rshah.org/fe428e/ibtihal-alt" />
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ibtihal-alt&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</p>
-
-## 🔝 Top Contributed Repos
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ibtihal-alt&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+  <img src="https://github-trophies.vercel.app/?username=ibtihal-alt&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </p>
 
 ## ✍️ Random Dev Quote
