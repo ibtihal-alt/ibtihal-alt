@@ -1,35 +1,87 @@
-<div align="center">
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fe428e,100:a9fef7&height=200&section=header&text=Hi%2C%20I'm%20Ibtihal%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
 
-  <!-- Header Banner / Typing SVG -->
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Ibtihal+%F0%9F%91%8B;Full+Stack+%26+Mobile+Developer;Turning+Caffeine+into+Code+%E2%98%95" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FE428E&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Professional+Bug+Creator+%F0%9F%90%9B;Stack+Overflow+Power+User+%F0%9F%94%8D;It+works+on+my+machine+%C2%AF%5C_(%E3%83%84)_%2F%C2%AF" alt="Typing SVG" />
   </a>
+</p>
 
-  <p align="center">
-    Fixing bugs with style, dodging CSS centers, and building cool things.
-  </p>
-
-  <!-- Social Badges -->
-  <a href="https://instagram.com/ibtihal.aan" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:ibtihal.althea@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://paypal.me/IbtihalNegara" target="_blank">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
-  </a>
-
-</div>
+<p align="center">
+  <a href="https://www.instagram.com/ibtihal.aan/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="mailto:ibtihal.althea@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://paypal.me/IbtihalNegara"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
+  <img src="https://visitcount.itsvg.in/api?id=ibtihal-alt&icon=0&color=13" />
+</p>
 
 ---
 
-### 💫 About Me
+## 💫 About Me
 
-```text
-🔭 I’m currently working on   ➜ Fixing a bug I confidently created yesterday.
-👯 I’m looking to collaborate ➜ Anything that doesn't involve centering a <div>.
-🤝 I’m looking for help with  ➜ Naming variables better than data, data2, and final_v3.
-🌱 I’m currently learning     ➜ How to exit Vim without restarting my computer.
-💬 Ask me about              ➜ Why it works on my machine but breaks in production.
-⚡ Fun fact                   ➜ 90% of my time is Googling errors, 10% actually coding.
+```js
+const ibtihal = {
+  currentlyWorkingOn: "Fixing a bug I confidently created yesterday",
+  lookingToCollaborateOn: "Anything that doesn't involve centering a <div>",
+  needHelpWith: "Naming variables better than data, data2, and final_v3",
+  currentlyLearning: "How to exit Vim without restarting my computer",
+  askMeAbout: "Why it works on my machine but breaks in production",
+  funFact: "90% Googling errors, 10% actually coding",
+};
+```
+
+## 💻 Tech Stack
+
+<p align="center">
+  <b>Languages</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=php,js,py,java,cpp,html,md&perline=7" />
+</p>
+
+<p align="center">
+  <b>Frameworks & Libraries</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=laravel,react,dotnet,alpinejs,bootstrap&perline=7" />
+</p>
+
+<p align="center">
+  <b>Database, Cloud & Tools</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,sqlite,firebase,gcp,git&perline=7" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ibtihal-alt&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibtihal-alt&theme=radical&hide_border=true&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ibtihal-alt&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ibtihal-alt&theme=redical&hide_border=true&area=true" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ibtihal-alt&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</p>
+
+## 🔝 Top Contributed Repos
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=ibtihal-alt&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+</p>
+
+## ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a9fef7,100:fe428e&height=120&section=footer" />
+</p>
